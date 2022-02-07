@@ -1,0 +1,7 @@
+{
+  "testSettings": {
+    "name": "test",
+    "aut": "https://jupiter2.cloud.planittesting.com/",
+    "browser": "Chrome"
+  }
+}
